@@ -6,7 +6,7 @@ https://github.com/DineshKatravath/da6401_assignment2
 
 ## Assignment Outline
 
-- In this assignment I tried to build a CNN model using pytorch.
+- In this assignment I tried to build a CNN model using lightning pytorch.
 
 ## How to create a model ?
 
