@@ -1,3 +1,9 @@
+## wandb link
+https://wandb.ai/cs24m018-iitmaana/da6401_Assignment2/reports/DA6401-Assignment-2-CS24M018--VmlldzoxMjM2OTU4NQ
+
+## github link
+https://github.com/DineshKatravath/da6401_assignment2
+
 ## Assignment Outline
 
 - In this assignment I tried to build a CNN model using pytorch.
