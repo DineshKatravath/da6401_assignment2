@@ -23,7 +23,7 @@ train_model(config)
 
 In the part A of the assignment we tried to implement the cnn model we are talking.
 
-train_A.py is the file one needs to run to see the running of the model and it takes follow arguments.
+train_A.py is the file one needs to run to see the running of the model.
 
 ## Dataset
 Ensure the iNaturalist 12K dataset is structured like:- 
@@ -62,7 +62,7 @@ or
 | `--dataAugmentation`   | flag    | `False`     | Enable data augmentation (random crop, flip, etc.) |
 | `--numClasses`         | int     | `10`        | Number of output classes |
 
-## 🏃 Usage
+##  Usage
 
 You can run the training script with default or custom parameters:
 
