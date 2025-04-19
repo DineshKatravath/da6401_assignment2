@@ -136,4 +136,4 @@ best_config = {
 }
 ```
 2. call training function
-   train()
+   train(best_config)
